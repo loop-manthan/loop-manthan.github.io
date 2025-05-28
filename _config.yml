@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Manthan Chheda
+subtitle: 'My thoughts, ideas and essays'
 description: ''
 keywords:
-author: John Doe
+author: Manthan Chheda
 language: en
-timezone: ''
+timezone: 'Asia/Kolkata'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -102,3 +102,6 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+theme_config:
+  colorscheme: light
